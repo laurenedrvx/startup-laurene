@@ -1,0 +1,17 @@
+.btn-orange {
+	background-color: #231F20;
+	padding: 15px 20px; 
+	border-radius: 4px;
+	color: #f2f5ea;
+	font-weight: bold;
+	font-family: 'Allerta Stencil';
+}
+
+.btn-blue {
+	background-color: #DAD7CD;
+	padding: 15px 20px;
+	border-radius: 4px; 
+	color: #8F754F;
+	font-weight: bold;
+	font-family: 'Allerta Stencil';
+}

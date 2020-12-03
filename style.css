@@ -1,0 +1,73 @@
+@import url("https://fonts.googleapis.com/css2?family=Allerta+Stencil&family=Montserrat+Subrayada&family=Rokkitt:wght@300&family=Sedgwick+Ave+Display&display=swap");
+
+@import url("components/container.css");
+
+@import url("components/avatar.css");
+
+@import url("components/button.css");
+
+@import url("components/banner.css");
+
+@import url("components/card.css");
+
+body {
+	font-family: 'Rokkitt', serif;
+	font-size: 20px; 
+	margin: 0px;  
+}
+
+h1 {
+	font-family: 'Sedgwick Ave Display';  
+	font-size: 30px;
+	font-weight: bold;
+}
+
+h2, h3, h4, h5 {
+	font-family: 'Montserrat Subrayada';
+	font-size: 20px;  
+	font-weight: bold;
+}
+
+h7 {
+	font-family: 'Montserrat Subrayada';
+	font-size: 20px; 
+	font-weight: bold;
+}
+
+a {
+	color: #f2f5ea;
+	text-decoration: none;
+}
+
+a:hover {
+	background-color: #DAD7CD;
+	color: black;
+}
+
+#shop-section {
+	text-align: center;
+}
+
+.list-inline {
+	list-style: none;
+	padding-left: 0px; 
+}
+
+.list-inline a {
+	display: inline;
+	padding: 6px;
+	color: #F26A8D;
+}
+
+.list-inline2 {
+	list-style: none;
+	padding-left: 0px; 
+}
+
+.list-inline2 li {
+	display: inline;
+	padding: 10px 30px;
+	margin: 5px 7px;
+	font-family: 'Sedgwick Ave Display';
+	font-weight: bold;
+}
